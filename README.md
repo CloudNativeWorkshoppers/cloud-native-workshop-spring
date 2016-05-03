@@ -1,3 +1,11 @@
+# Action Items to achieve STL and Devoxx/UK workshops:
+
+* Create slides for Cloud Native Application and Spring Boot intros (Jim)
+* Create slides for intial exercise, and supply link to book example (Jim)
+* Create golden examples of quote service and place in repository: (Mark)
+** Simple quote service like intro_quote_service but with code split out into three classes
+** Quote service example that uses H2
+
 # cloud-native-workshop-spring
 Workshop to demonstrate concepts and development of cloud native Java applications, 12(ish) factors, using Spring Boot and Cloud Foundry for toolchain/platform.
 
