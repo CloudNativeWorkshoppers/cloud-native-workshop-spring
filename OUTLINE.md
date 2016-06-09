@@ -1,6 +1,16 @@
 # Cloud Native Workshop
 Primary repository for Cloud Native Development workshop.
 
+## Author
+
+Mark A. Heckler
+mark@thehecklers.org
+Twitter: @MkHeck
+
+## Version
+
+1.0
+
 ## Description
 Want to learn Cloud Native Development from concept to execution but don't know where to start? Need to sink your hands into it under expert tutelage? This workshop is for you.
 
@@ -31,6 +41,13 @@ Each exercise performed will be shown in context so attendees learn and internal
 * (_MENTION, BUT SKIP FOR INTRO WORKSHOP_) Incorporate admin code into release for consistency
 
 ## Outline
+
+### Pre-workshop steps
+
+* See prerequisites below, but request PWS account FIRST!
+* Sign up for Github account if don't already have one (optional?)
+
+### Workshop
 
 In this workshop, we will start by explaining the following key concepts:
 
